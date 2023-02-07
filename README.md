@@ -1,4 +1,4 @@
-# hilt-store-app
+# Dependency Injection using Hilt
 
 ### Intro
 
